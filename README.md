@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=24&height=100&text=Hello,%20I'm%20Hyejin!%20💻&fontSize=50&fontAlignY=55)
 
-# Skills
+## Skills
 <h3 align="center">Back-End</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
