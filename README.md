@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=24&height=100&text=Hello,%20I'm%20Hyejin!%20💻&fontSize=50&fontAlignY=55)
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=24&height=100&text=Hello,%20I'm%20Hyejin!%20💻&fontSize=50&fontAlignY=55)
+
+</div>
 
 ## Skills
 <h3 align="center">Back-End</h3>
@@ -33,4 +37,11 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-</p>
+</p><br>
+
+## Tech Blog
+<div align="center" style="text-align:center">
+
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=layssingcar&tag=algorithm)](https://github.com/eungyeole/velog-readme-stats)
+
+</div>
