@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=24&height=180&text=Hello,%20I'm%20Hyejin!%20💻&fontSize=50&fontAlignY=35)
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=24&height=150&text=WOO%20HYEJIN&fontSize=50&fontAlign=74&fontAlignY=30&rotate=10)
 
 </div>
 
