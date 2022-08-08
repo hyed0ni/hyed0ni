@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=24&height=150&text=WOO%20HYEJIN&fontSize=50&fontAlign=74&fontAlignY=30&rotate=10)
-
-</div>
-
 ## ⚒️ Skills
 <h3 align="center">Back-End</h3>
 <p align="center">
