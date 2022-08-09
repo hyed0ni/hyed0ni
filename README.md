@@ -1,9 +1,3 @@
-<div align="right">
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyed0ni&count_bg=%2326C9FC&title_bg=%239B9B9B&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
 ## ⚒️ Skills
 <h3 align="center">Back-End</h3>
 <p align="center">
