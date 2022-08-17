@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </p><br>
 
-## 📑 Tech Blog
+## ✏️ Tech Blog
 <div align="center">
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=layssingcar&tag=algorithm)](https://velog.io/@layssingcar)
