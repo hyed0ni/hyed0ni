@@ -51,7 +51,7 @@
 ## ✏️ Tech Blog
 <div align="center">
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=layssingcar&tag=algorithm)](https://velog.io/@layssingcar)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=layssingcar&tag=wcag)](https://velog.io/@layssingcar)
 
 </div><br>
 
